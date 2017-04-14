@@ -1,0 +1,30 @@
+{
+  "name": "oriole-client",
+  "version": "0.0.1",
+  "description": "Oriole client.",
+  "main": "oriole.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "dependencies": {
+    "node-nameko-client": "^1.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouxiaoxiang/oriole-client.git"
+  },
+  "keywords": [
+    "oriole"
+  ],
+  "author": "Eric Zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouxiaoxiang/oriole-client/issues"
+  },
+  "homepage": "https://github.com/zhouxiaoxiang/oriole-client#readme"
+}

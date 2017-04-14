@@ -1,4 +1,4 @@
-var oriole = require("./oriole");
+var oriole = require("oriole-client");
 
 service = "log_service";
 method = "ping";
